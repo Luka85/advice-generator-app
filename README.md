@@ -30,8 +30,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Luka85/advice-generator-app](https://github.com/Luka85/advice-generator-app)
+- Live Site URL: [https://luka85.github.io/advice-generator-app/](https://luka85.github.io/advice-generator-app/)
 
 ## My process
 
